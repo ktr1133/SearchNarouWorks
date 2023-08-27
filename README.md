@@ -3,7 +3,7 @@
 ■ Language: Python3<br><br>
 ■ How to: use API<br>
 url: https://dev.syosetu.com/man/api/<br><br>
-<h1>filter data</h1>
+<h1>remake data</h1>
 ■ Language: Python3<br><br>
 ■ How to: use getData.py<br><br>
 <h1>save data</h1>
