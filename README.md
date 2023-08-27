@@ -1,4 +1,4 @@
-# structure
+# Structure
 <h1>get data from Narou server</h1>
 ■ Language: Python3<br><br>
 ■ How to: use API<br>
