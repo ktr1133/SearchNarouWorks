@@ -1,5 +1,5 @@
 # Structure
-<h1>getData.py</h1>
+<h1>get_novel_info.py</h1>
 ■ Language: Python3<br><br>
 ■ referense(url)<br>
 https://dev.syosetu.com/man/api/<br><br>
