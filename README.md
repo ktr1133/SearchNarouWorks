@@ -1,15 +1,11 @@
 # Structure
-<h1>get data from Narou server</h1>
+<h1>getData.py</h1>
 ■ Language: Python3<br><br>
-■ How to: use API<br>
-url: https://dev.syosetu.com/man/api/<br><br>
-<h1>remake data</h1>
-■ Language: Python3<br><br>
-■ How to: use getData.py<br><br>
-<h1>save data</h1>
-■ Language: Python3<br><br>
-■ How to: use updateDatabase.py<br><br>
-■ DB: MariaDB MySQL
-
+■ referense(url)<br>
+https://dev.syosetu.com/man/api/<br><br>
+■ summary<br>
+Retrieves data from the Narou API, including the name of the work, author, genre, weekly points, weekly unique users, and number of parts published.<br><br>
+■ Returns<br>
+DataFrame
 
 
